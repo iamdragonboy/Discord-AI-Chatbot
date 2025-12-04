@@ -32,7 +32,7 @@ AUTO_SHARDING: true
 
 DISABLE_PRESENCE: false 
 PRESENCES:
-  - How can I assist you?
+  - Hi I AM ARAIN AI How can I assist you?
   - Currently in {guild_count} guilds
   - Support at https://discord.gg/AXpDWhbdQV
 # List of different presences to be used
