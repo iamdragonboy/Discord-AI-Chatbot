@@ -18,7 +18,7 @@ DEFAULT_INSTRUCTION: assist # Specify the instruction prompt to use (check 'inst
 # To add custom prompts, create a .txt file like 'custom.txt' in `instructions` folder and set INSTRUCTIONS as 'custom'
 
 Discord: https://discord.gg/6MT3CZauT8
-Github: https://github.com/mishalhossin/Discord-AI-Chatbot
+Github: https://github.com/iamdragonboy/Discord-AI-Chatbot
 
 TRIGGER:
   - chatbot
